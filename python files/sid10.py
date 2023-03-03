@@ -1,0 +1,61 @@
+# courses = ['coa','os','dsa','dbms']
+# print(courses)
+# print(courses[1])
+# print(courses[0:3])
+# print(len(courses))
+# courses = ['coa','os','dsa',['dbms','cn']]
+# print(courses[3])
+# print(courses[3][0])
+# courses.append('probality')
+# print(courses)
+# courses.insert(0,'science')
+# print(courses)
+# courses.insert(0,['physics','chemistry'])
+# print(courses)
+# cuorses2 = ['hindi','math']
+# courses.extend(cuorses2)
+# print(courses)
+# courses.remove('coa')
+# print(courses)
+# courses.pop()
+# print(courses)
+# poped_item = courses.pop()
+# print(poped_item)
+# print(courses.index('dsa'))
+# print('dbms' in courses)
+# print('os' in courses)
+# courses.reverse()
+# print(courses)
+# subjects= ['social','economics','reasoning','computer']
+# subjects.sort()
+# print(subjects)
+# nums = [2,5,4,6,1]
+# nums.sort()
+# print(nums)
+# nums.sort(reverse = True)
+# print(nums)
+# sorted_nums = sorted(nums)
+# print(nums):print(sorted_nums)
+# print(max(nums))
+# print(min(nums))
+# print(sum(num))
+# courses_string = '----^^^^%%%%%%####((((@@@@@@________+++++++++!!!!!!~~~~~~~~'.join(courses)
+# print(courses)
+# print(courses_string)
+# new_list = courses_string.split('___---')
+# print(new_list)
+# list_1 =['ram','shyam','rahul','sid']
+# list_2 = list_1
+# print(list_1)
+# print(list_2)
+# list_1[0]= 'mohan'
+# list_1[1]= 'shyam'
+# print(list_1)
+# print(list_2)
+# tuple_1 = ('ram','shyam','rahul','sid')
+# tuple_2 = tuple_1
+# print(tuple_1)
+# print(tuple_2)
+# tuple_1[0] = 'mohan'
+# print(tuple_1)
+# print(tuple_2)
